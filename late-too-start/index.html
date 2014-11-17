@@ -9,6 +9,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 <style>
 
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
 .node {
   cursor: pointer;
 }
@@ -74,7 +79,13 @@ text > a:hover {
 </style>
 <body style="width: 100%; height: 100%;">
 <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.4/d3.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+<script>
+
+if (!window.d3) {
+    document.write('<script src="js/d3.min.js"><\/script>');
+}
+</script>
 
 
 <div id="container">
@@ -84,7 +95,7 @@ text > a:hover {
 	 y="0px" width="970px" height="800px" viewBox="0 0 970 800" preserveAspectRatio="xMidYMid" style="background-color: #ece8e3;" xml:space="preserve">
 <g id="Footer">
 	<text transform="matrix(1.0001 0 0 1 35.0942 765.6021)" fill="#554263" font-family="'BebasNeue'" font-size="51.768">IT'S NEVER TOO LATE.</text>
-<a xlink:href="http://fundersandfounders.com/">	
+<a xlink:href="http://fundersandfounders.com/"  target="_top">	
 <g id="logo">
 	<g id="letters">
 		<path fill="#238FCF" d="M716.82,751.874h-5.808v4.058h5.601v2.396h-5.601v8.041h-2.517v-16.893h8.324V751.874z"/>
@@ -328,7 +339,7 @@ text > a:hover {
 </g>
 <g id="header">
 	<g id="author">
-		<a xlink:href="http://fundersandfounders.com/author/anna-vital/"><text transform="matrix(1 0 0 1 840.0454 92.1748)" fill="#8E8099" font-family="'HelveticaCYPlain'" font-size="19">by Anna Vital</text>
+		<a xlink:href="http://fundersandfounders.com/author/anna-vital/" target="_top"><text transform="matrix(1 0 0 1 840.0454 92.1748)" fill="#8E8099" font-family="'HelveticaCYPlain'" font-size="19">by Anna Vital</text>
 		</a>
 	</g>
 	
@@ -498,17 +509,18 @@ FnF.founders = {
 }
 
 FnF.aspectRatio = 970 / 800;
-FnF.chart = $("#latetostart-graph");
+FnF.chart = d3.select("#latetostart-graph").node();
 
 FnF.resizeTimer;
 
 FnF.doResize = function() {
+	console.log('running FnF.doResize()');
 	clearTimeout(FnF.resizeTimer);
 	FnF.resizeTimer = setTimeout(function(){
-		var targetWidth = FnF.chart.parent().width();
+		var targetWidth = FnF.chart.parentNode.offsetWidth;
 		console.log('resizing to w=' + targetWidth);
-		FnF.chart.attr("width", targetWidth);
-		FnF.chart.attr("height", targetWidth / FnF.aspectRatio);	
+		FnF.chart.style.width = targetWidth + "px";
+		FnF.chart.style.height = targetWidth / FnF.aspectRatio + "px";	
 	}, 100);
 }
 
@@ -577,6 +589,28 @@ FnF.doResize();
 
 FnF.clearInfo = function () {
   FnF.svg.selectAll(".year_born").remove();
+}
+
+FnF.leafSelect = function(d) {
+  if (d.selected) {
+    d.selected = false;
+    d._selected= true;
+  } else {
+    if (FnF.prevSelected) {
+      FnF.prevSelected.selected = false;
+      FnF.prevSelected._selected = false;
+    }
+     d.selected = true;
+    FnF.prevSelected = d;
+  }
+  var theName = d.name;
+  var theLastName = d.lastname; 
+  FnF.clearInfo();
+  FnF.svg.append("text")
+  	.attr("x", "15")
+  	.attr("y", "200")
+  	.classed("year_born", true)
+  	.text( d.birth.split("-")[0] );
 }
 
 FnF.click = function(d) {
@@ -792,11 +826,10 @@ FnF.update = function(source) {
    
 FnF.update(FnF.root);
 
+d3.select(window).on("resize", FnF.doResize);
+d3.select(window).on("load", FnF.doResize);
 
-$(window).on('resize load',FnF.doResize);
-// d3.select(window).on("resize", function() {});
-
-d3.select(self.frameElement).style("height", "800px");
+//d3.select(self.frameElement).style("height", "800px");
 
 // Normalize for fixed-depth.
 function normalizeNode(d){
@@ -812,26 +845,5 @@ function normalizeNode(d){
   	}
 }
 
-FnF.leafSelect = function(d) {
-  if (d.selected) {
-    d.selected = false;
-    d._selected= true;
-  } else {
-    if (FnF.prevSelected) {
-      FnF.prevSelected.selected = false;
-      FnF.prevSelected._selected = false;
-    }
-     d.selected = true;
-    FnF.prevSelected = d;
-  }
-  var theName = d.name;
-  var theLastName = d.lastname; 
-  FnF.clearInfo();
-  FnF.svg.append("text")
-  	.attr("x", "15")
-  	.attr("y", "200")
-  	.classed("year_born", true)
-  	.text( d.birth.split("-")[0] );
-}
 </script>
 </body>
