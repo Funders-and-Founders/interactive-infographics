@@ -1466,7 +1466,9 @@
 	<g id="bb_88_">
 		<circle fill="#C5D2D6" cx="61.149" cy="627.486" r="47.886"/>
 		<g>
-			<text transform="matrix(1 0 0 1 51.5415 684.8483)" class="bmedia">CNET</text>
+			<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Acnet.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">	
+			  <text transform="matrix(1 0 0 1 51.5415 684.8483)" class="bmedia">CNET</text>
+			</a>
 		</g>
 		<g>
 			<text transform="matrix(1 0 0 1 37.0336 620.2184)"><tspan x="0" y="0" class="btitle5">Android Apps </tspan><tspan x="3.983" y="9.646" class="btitle5">That Extend</tspan><tspan x="4.96" y="19.293" class="btitle5">Battery Life</tspan></text>
@@ -1477,10 +1479,9 @@
 		<g>
 			<text transform="matrix(1 0 0 1 123.8136 828.9576)"><tspan x="0" y="0" fill="#748D93" class="btitle2">5-Years-Old </tspan><tspan x="-0.971" y="7.234" fill="#748D93" class="btitle2">Shoots Sister</tspan></text>
 		</g>
-		<g>
-			
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Acnn.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 				<text transform="matrix(1 0 0 1 128.2818 860.8561)" class="bmedia">CNN</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_86_">
 		<circle fill="#C5D2D6" cx="625.834" cy="837.3" r="16.802"/>
@@ -1488,8 +1489,9 @@
 			<text transform="matrix(1 0 0 1 613.474 832.8889)"><tspan x="0" y="0" fill="#748D93" class="btitle2">Samsung</tspan><tspan x="1.987" y="7.234" fill="#748D93" class="btitle2"> Galaxy </tspan><tspan x="3.509" y="14.47" fill="#748D93" class="btitle2">Note II</tspan></text>
 		</g>
 		<g>
-			
-				<text transform="matrix(1 0 0 1 606.7767 861.7541)" class="bmedia">Engaget</text>
+      <a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Aengadget.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">	
+          <text transform="matrix(1 0 0 1 606.7767 861.7541)" class="bmedia">Engaget</text>
+      </a>
 		</g>
 	</g>
 	<g id="bb_50_">
@@ -1497,18 +1499,18 @@
 		<g>
 			<text transform="matrix(1 0 0 1 702.6743 552.8868)"><tspan x="0" y="0" class="btitle5">Am I Mom </tspan><tspan x="3.275" y="9.646" class="btitle5">Enough?</tspan></text>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 700.5043 583.9503)"  class="bmedia">><tspan x="0" y="0" class="bmedia">Boston</tspan><tspan x="4.929" y="9.45">Globe</tspan></text>
-		</g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Aboston.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
+			<text transform="matrix(1 0 0 1 700.5043 583.9503)" class="bmedia">><tspan x="0" y="0">Boston</tspan><tspan x="4.929" y="9.45">Globe</tspan></text>
+		</a>
 	</g>
 	<g id="bb_49_">
 		<circle fill="#C5D2D6" cx="706.107" cy="671.156" r="16.644"/>
 		<g>
 			<text transform="matrix(1 0 0 1 693.8614 667.574)"><tspan x="0" y="0" fill="#748D93" class="btitle2">Become a </tspan><tspan x="-1.329" y="7.234" fill="#748D93" class="btitle2">Millionaire </tspan><tspan x="6.11" y="14.47" fill="#748D93" class="btitle2">by 30</tspan></text>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 669.3282 696.3465)"><tspan x="0" y="0" class="bmedia">Entrepreneur </tspan><tspan x="10.351" y="9.45" class="bmedia">Magazine</tspan></text>
-		</g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Aentrepreneur.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
+			<text transform="matrix(1 0 0 1 669.3282 696.3465)" class="bmedia"><tspan x="0" y="0">Entrepreneur </tspan><tspan x="10.351" y="9.45">Magazine</tspan></text>
+		</a>
 	</g>
 	<g id="bb_42_">
 		<circle fill="#C5D2D6" cx="126.586" cy="318.405" r="16.097"/>
@@ -1516,7 +1518,9 @@
 			<text transform="matrix(1 0 0 1 114.086 313.4843)"><tspan x="0" y="0" fill="#748D93" class="btitle2">Our Brain </tspan><tspan x="0.573" y="7.235" fill="#748D93" class="btitle2">When We</tspan><tspan x="1.764" y="14.47" fill="#748D93" class="btitle2"> Exercise</tspan></text>
 		</g>
 		<g>
-			<text transform="matrix(1 0 0 1 116.7877 342.5184)"><tspan x="0" y="0" class="bmedia">Fast </tspan><tspan x="-11.739" y="9.45" class="bmedia">Company</tspan></text>
+			<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Afastcompany.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">	
+			  <text transform="matrix(1 0 0 1 116.7877 342.5184)" class="bmedia"><tspan x="0" y="0">Fast </tspan><tspan x="-11.739" y="9.45">Company</tspan></text>
+			</a>
 		</g>
 	</g>
 	<g id="bb_41_">
@@ -1524,28 +1528,27 @@
 		<g>
 			<text transform="matrix(1 0 0 1 33.2199 715.5991)"><tspan x="0" y="0" class="btitle5">Pastors</tspan><tspan x="-0.53" y="9.646" class="btitle5">Abused</tspan><tspan x="0.78" y="19.293" class="btitle5">By City</tspan></text>
 		</g>
-		<g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Afoxnews.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 			<text transform="matrix(1 0 0 1 25.1857 764.2485)" class="bmedia">Fox News</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_40_">
 		<circle fill="#C5D2D6" cx="781.601" cy="273.601" r="34.433"/>
 		<g>
 			<text transform="matrix(1 0 0 1 762.8275 268.581)"><tspan x="0" y="0" class="btitle5">How Dumb </tspan><tspan x="4.284" y="9.646" class="btitle5">Hashtags</tspan><tspan x="9.159" y="19.293" class="btitle5">Sound</tspan></text>
 		</g>
-		<g>
-			
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Agizmodo.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 				<text transform="matrix(1 0 0 1 760.2152 316.8222)" class="bmedia">Gizmodo</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_39_">
 		<circle fill="#C5D2D6" cx="161.707" cy="213.411" r="47.886"/>
 		<g>
 			<text transform="matrix(1 0 0 1 144.5865 213.206)"><tspan x="0" y="0" class="btitle5">Believing</tspan><tspan x="2.159" y="9.646" class="btitle5">in Santa</tspan></text>
 		</g>
-		<g>
+    <a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Amashable.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 			<text transform="matrix(1 0 0 1 142.0587 270.956)" class="bmedia">Mashable</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_38_">
 		<circle fill="#C5D2D6" cx="713.509" cy="486.757" r="21.802"/>
@@ -1553,7 +1556,9 @@
 			<text transform="matrix(1 0 0 1 697.3589 481.6857)"><tspan x="0" y="0" class="btitle5">American</tspan><tspan x="2.07" y="9.646" class="btitle5"> Sniper&apos;s</tspan><tspan x="3.678" y="19.293" class="btitle5"> Widow</tspan></text>
 		</g>
 		<g>
-			<text transform="matrix(1 0 0 1 699.4713 516.4933)"><tspan x="0" y="0" class="bmedia">People </tspan><tspan x="-8.568" y="9.45" class="bmedia">Magazine</tspan></text>
+		  <a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Apeople.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
+			  <text transform="matrix(1 0 0 1 699.4713 516.4933)" class="bmedia"><tspan x="0" y="0">People </tspan><tspan x="-8.568" y="9.45">Magazine</tspan></text>
+			</a>
 		</g>
 	</g>
 	<g id="bb_37_">
@@ -1561,34 +1566,33 @@
 		<g>
 			<text transform="matrix(1 0 0 1 107.452 560.2615)"><tspan x="0" y="0" class="btitle5">Abortion </tspan><tspan x="6.885" y="9.646" class="btitle5">Clinic</tspan><tspan x="4.916" y="19.293" class="btitle5">Horror</tspan></text>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 113.0418 598.5916)"><tspan x="0" y="0" class="bmedia">USA </tspan><tspan x="-5.374" y="9.45" class="bmedia">Today</tspan></text>
-		</g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Ausatoday.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
+			<text transform="matrix(1 0 0 1 113.0418 598.5916)" class="bmedia"><tspan x="0" y="0">USA </tspan><tspan x="-5.374" y="9.45">Today</tspan></text>
+		</a>
 	</g>
 	<g id="bb_36_">
 		<circle fill="#C5D2D6" cx="243.626" cy="189.139" r="18.221"/>
 		<g>
 			<text transform="matrix(1 0 0 1 234.9852 178.3103)"><tspan x="0" y="0" fill="#748D93" class="btitle2">Liking </tspan><tspan x="-5.586" y="7.235" fill="#748D93" class="btitle2">Everything</tspan><tspan x="-8.081" y="14.47" fill="#748D93" class="btitle2">on Facebook</tspan><tspan x="-4.314" y="21.705" fill="#748D93" class="btitle2">for 2 Days</tspan></text>
 		</g>
-		<g>
-			
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Awired.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 				<text transform="matrix(1 0 0 1 229.5633 216.4177)" class="bmedia">Wired</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_35_">
 		<circle fill="#C5D2D6" cx="113.821" cy="416.427" r="12.765"/>
 		<g>
 			<text transform="matrix(1 0 0 1 106.8961 410.7626)"><tspan x="0" y="0" fill="#748D93" font-family="'MyriadPro-Semibold'" font-size="5.3591">Top 5</tspan><tspan x="-5.632" y="6.431" fill="#748D93" font-family="'MyriadPro-Semibold'" font-size="5.3591"> Deathbed</tspan><tspan x="-2.915" y="12.862" fill="#748D93" font-family="'MyriadPro-Semibold'" font-size="5.3591"> Regrets</tspan></text>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 90.3409 438.1884)"><tspan x="0" y="0" class="bmedia">The Next</tspan><tspan x="11.054" y="9.45" class="bmedia"> Web</tspan></text>
-		</g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Athenextweb.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
+			<text transform="matrix(1 0 0 1 90.3409 438.1884)" class="bmedia"><tspan x="0" y="0">The Next</tspan><tspan x="11.054" y="9.45"> Web</tspan></text>
+		</a>
 	</g>
 	<g id="bb_34_">
 		<circle fill="#C5D2D6" cx="784.181" cy="546.386" r="29.732"/>
-		<g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Aaljazeera.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 			<text transform="matrix(1 0 0 1 759.8828 586.808)" class="bmedia">Al Jazeera</text>
-		</g>
+		</a>
 		<g>
 			<text transform="matrix(1 0 0 1 763.747 541.7327)"><tspan x="0" y="0" class="btitle4">Girl&apos;s Family </tspan><tspan x="6.701" y="9.405" class="btitle4">Killed By</tspan><tspan x="10.781" y="18.811" class="btitle4">Drone</tspan></text>
 		</g>
@@ -1598,65 +1602,63 @@
 		<g>
 			<text transform="matrix(1 0 0 1 247.1838 122.0941)"><tspan x="0" y="0" fill="#748D93" class="btitle2">Gut Feeling </tspan><tspan x="3.382" y="7.235" fill="#748D93" class="btitle2">Depends </tspan><tspan x="-0.488" y="14.47" fill="#748D93" class="btitle2">on Stomach </tspan><tspan x="3.705" y="21.705" fill="#748D93" class="btitle2">Microbes</tspan></text>
 		</g>
-		<g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Atheverge.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 			<text transform="matrix(1 0 0 1 239.969 161.1322)" class="bmedia">The Verge</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_32_">
 		<circle fill="#C5D2D6" cx="162.254" cy="747.539" r="47.886"/>
 		<g>
 			<text transform="matrix(1 0 0 1 145.7483 734.1276)"><tspan x="0" y="0" class="btitle5">3-Minute </tspan><tspan x="-4.184" y="9.646" class="btitle5">Commercial</tspan><tspan x="-5.285" y="19.293" class="btitle5"> Better Than </tspan><tspan x="-2.247" y="28.939" class="btitle5">Hollywood</tspan></text>
 		</g>
-		<g>
-			
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Agawker.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 				<text transform="matrix(1 0 0 1 143.2776 803.7585)" class="bmedia">Gawker</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_31_">
 		<circle fill="#C5D2D6" cx="679.278" cy="329.173" r="24.003"/>
 		<g>
 			<text transform="matrix(1 0 0 1 662.3466 319.3227)"><tspan x="0" y="0" fill="#748D93" class="btitle3">31 Phrases </tspan><tspan x="-2.412" y="8.039" fill="#748D93" class="btitle3">Only Military</tspan><tspan x="5.449" y="16.077" fill="#748D93" class="btitle3"> People</tspan><tspan x="-1.661" y="24.116" fill="#748D93" class="btitle3"> Understand</tspan></text>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 660.4286 361.0766)"><tspan x="0" y="0" class="bmedia">Business</tspan><tspan x="0.383" y="9.45" class="bmedia"> Insider</tspan></text>
-		</g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Abusinessinsider.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
+			<text transform="matrix(1 0 0 1 660.4286 361.0766)" class="bmedia"><tspan x="0" y="0">Business</tspan><tspan x="0.383" y="9.45"> Insider</tspan></text>
+		</a>
 	</g>
 	<g id="bb_30_">
 		<circle fill="#C5D2D6" cx="53.643" cy="376.952" r="40.379"/>
 		<g>
 			<text transform="matrix(1 0 0 1 34.386 367.6785)"><tspan x="0" y="0" class="btitle5">7 Crippling </tspan><tspan x="2.874" y="9.646" class="btitle5">Parenting</tspan><tspan x="2.001" y="19.293" class="btitle5"> Behaviors</tspan></text>
 		</g>
-		<g>
+    <a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Aforbes.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 			<text transform="matrix(1 0 0 1 40.1506 426.6628)" class="bmedia">Forbes</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_29_">
 		<circle fill="#C5D2D6" cx="56.843" cy="816.341" r="38.012"/>
 		<g>
 			<text transform="matrix(1 0 0 1 33.2713 811.3425)"><tspan x="0" y="0" class="btitle5">How to Know </tspan><tspan x="3.617" y="9.646" class="btitle5">if Someone </tspan><tspan x="3.147" y="19.293" class="btitle5">is Drowning</tspan></text>
 		</g>
-		<g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Aslate.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 			<text transform="matrix(1 0 0 1 19.3675 862.7156)" class="bmedia">Slate Magazine</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_28_">
 		<circle fill="#C5D2D6" cx="782.868" cy="714.182" r="31.384"/>
 		<g>
 			<text transform="matrix(1 0 0 1 755.7971 708.9811)"><tspan x="0" y="0" class="btitle4">Robin Williams&apos;s </tspan><tspan x="3.202" y="9.405" class="btitle4">Death: Suicide </tspan><tspan x="6.76" y="18.811" class="btitle4">is Not Selfish</tspan></text>
 		</g>
-		<g>
-			
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Atheguardian.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 				<text transform="matrix(1 0 0 1 748.4816 754.2399)" class="bmedia">The Guardian</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_27_">
 		<circle fill="#C5D2D6" cx="203.708" cy="126.703" r="16.031"/>
 		<g>
 			<text transform="matrix(1 0 0 1 196.8335 121.1647)"><tspan x="0" y="0" fill="#748D93" class="btitle2">A PhD</tspan><tspan x="-5.23" y="7.235" fill="#748D93" class="btitle2">Is A Waste</tspan><tspan x="-1.742" y="14.47" fill="#748D93" class="btitle2">of Time</tspan></text>
 		</g>
-		<g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Aeconomist.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 			<text transform="matrix(1 0 0 1 193.9087 150.8981)"><tspan x="0" y="0" class="bmedia">The </tspan><tspan x="-15.701" y="9.45" class="bmedia">Economist</tspan></text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_26_">
 		<circle fill="#C5D2D6" cx="700.088" cy="244.075" r="37.841"/>
@@ -1664,7 +1666,9 @@
 			<text transform="matrix(1 0 0 1 673.0967 239.7187)"><tspan x="0" y="0" class="btitle5">Working Mom’s</tspan><tspan x="-4.181" y="9.646" class="btitle5">Letter to Gwyneth</tspan><tspan x="13.882" y="19.293" class="btitle5">Paltrow</tspan></text>
 		</g>
 		<g>
-			<text transform="matrix(1 0 0 1 674.5547 290.2822)"><tspan x="0" y="0" class="bmedia">New York </tspan><tspan x="16.175" y="9.45" class="bmedia">Post</tspan></text>
+			<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Anypost.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">	
+			  <text transform="matrix(1 0 0 1 674.5547 290.2822)" class="bmedia"><tspan x="0" y="0">New York </tspan><tspan x="16.175" y="9.45">Post</tspan></text>
+			</a>
 		</g>
 	</g>
 	<g id="bb_25_">
@@ -1673,8 +1677,9 @@
 			<text transform="matrix(1 0 0 1 552.328 836.1743)"><tspan x="0" y="0" fill="#748D93" font-family="'MyriadPro-Semibold'" font-size="5.3591">Prynt</tspan><tspan x="-1.192" y="6.431" fill="#748D93" font-family="'MyriadPro-Semibold'" font-size="5.3591">Phone</tspan><tspan x="0.828" y="12.862" fill="#748D93" font-family="'MyriadPro-Semibold'" font-size="5.3591">Case</tspan></text>
 		</g>
 		<g>
-			
+			<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Atechcrunch.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 				<text transform="matrix(1 0 0 1 527.6932 862.2476)" class="bmedia">TechCrunch</text>
+			</a>
 		</g>
 	</g>
 	<g id="bb_24_">
@@ -1682,98 +1687,95 @@
 		<g>
 			<text transform="matrix(1 0 0 1 759.3917 799.9578)"><tspan x="0" y="0" class="btitle5">Semen</tspan><tspan x="-7.814" y="9.646" class="btitle5">Helps Fight</tspan><tspan x="-7.681" y="19.293" class="btitle5">Depression</tspan></text>
 		</g>
-		<g>
-			
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Adailymail.co.uk" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 				<text transform="matrix(1 0 0 1 747.0499 862.2879)" class="bmedia">Daily Mail</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_23_">
 		<circle fill="#C5D2D6" cx="486.802" cy="138.661" r="29.562"/>
 		<g>
 			<text transform="matrix(1 0 0 1 468.956 137.8616)"><tspan x="0" y="0" class="btitle5">The ‘Busy’ </tspan><tspan x="10.399" y="9.646" class="btitle5">Trap</tspan></text>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 451.5273 176.3694)"><tspan x="0" y="0" class="bmedia">The New York</tspan><tspan x="22.722" y="9.45" class="bmedia">Times</tspan></text>
-		</g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Anytimes.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
+			<text transform="matrix(1 0 0 1 451.5273 176.3694)" class="bmedia"><tspan x="0" y="0">The New York</tspan><tspan x="22.722" y="9.45">Times</tspan></text>
+		</a>
 	</g>
 	<g id="bb_22_">
 		<circle fill="#C5D2D6" cx="679.278" cy="821.862" r="21.904"/>
 		<g>
 			<text transform="matrix(1 0 0 1 665.6528 814.6785)"><tspan x="0" y="0" fill="#748D93" class="btitle3">14 Habits</tspan><tspan x="-1.574" y="8.039" fill="#748D93" class="btitle3">That Drain</tspan><tspan x="-4.137" y="16.077" fill="#748D93" class="btitle3">Your Energy</tspan></text>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 667.3608 852.9763)"><tspan x="0" y="0" class="bmedia">Time </tspan><tspan x="-12.112" y="9.45" class="bmedia">Magazine</tspan></text>
-		</g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Atime.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
+			<text transform="matrix(1 0 0 1 667.3608 852.9763)" class="bmedia"><tspan x="0" y="0">Time </tspan><tspan x="-12.112" y="9.45">Magazine</tspan></text>
+		</a>
 	</g>
 	<g id="bb_21_">
 		<circle fill="#C5D2D6" cx="691.662" cy="746.936" r="28.417"/>
 		<g>
 			<text transform="matrix(1 0 0 1 675.2988 734.7834)"><tspan x="0" y="0" class="btitle4">Why Men </tspan><tspan x="6.952" y="9.405" class="btitle4">Need </tspan><tspan x="-1.591" y="18.811" class="btitle4">Nights Out</tspan><tspan x="-1.23" y="28.216" class="btitle4"> With Men </tspan></text>
 		</g>
-		<g>
-			
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Atelegraph.co.uk" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 				<text transform="matrix(1 0 0 1 655.1641 784.8918)" class="bmedia">The Telegraph</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_20_">
 		<circle fill="#C5D2D6" cx="142.059" cy="129.966" r="19.976"/>
 		<g>
 			<text transform="matrix(1 0 0 1 127.7111 122.104)"><tspan x="0" y="0" fill="#748D93" class="btitle2">Mongolia&apos;s </tspan><tspan x="-1.396" y="7.235" fill="#748D93" class="btitle2">13-Year-Old </tspan><tspan x="7.135" y="14.47" fill="#748D93" class="btitle2">Eagle </tspan><tspan x="3.234" y="21.705" fill="#748D93" class="btitle2">Huntress</tspan></text>
 		</g>
-		<g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Abbc.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 			<text transform="matrix(1 0 0 1 133.463 159.601)" class="bmedia">BBC</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_19_">
 		<circle fill="#C5D2D6" cx="61.892" cy="486.585" r="47.983"/>
 		<g>
 			<text transform="matrix(1 0 0 1 39.961 480.6173)"><tspan x="0" y="0" class="btitle5">Why Phones </tspan><tspan x="-5.788" y="9.646" class="btitle5">Must Be Banned</tspan><tspan x="4.132" y="19.293" class="btitle5"> From Kids</tspan></text>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 24.4117 542.8468)"><tspan x="0" y="0" class="bmedia">The Huffington</tspan><tspan x="28.014" y="9.45" class="bmedia">Post</tspan></text>
-		</g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Ahuffingtonpost.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
+			<text transform="matrix(1 0 0 1 24.4117 542.8468)" class="bmedia"><tspan x="0" y="0">The Huffington</tspan><tspan x="28.014" y="9.45">Post</tspan></text>
+		</a>
 	</g>
 	<g id="bb_18_">
 		<circle fill="#C5D2D6" cx="703.28" cy="407.684" r="29.526"/>
 		<g>
 			<text transform="matrix(1 0 0 1 687.8248 397.4908)"><tspan x="0" y="0" class="btitle5">The Best </tspan><tspan x="5.346" y="9.646" class="btitle5">Worst</tspan><tspan x="-1.784" y="19.293" class="btitle5">President </tspan><tspan x="8.007" y="28.939" class="btitle5">Ever</tspan></text>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 668.7056 447.2272)"><tspan x="0" y="0" class="bmedia">San Francisco</tspan><tspan x="9.297" y="9.45" class="bmedia">Chronicle</tspan></text>
-		</g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Asfgate.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
+			<text transform="matrix(1 0 0 1 668.7056 447.2272)" class="bmedia"><tspan x="0" y="0">San Francisco</tspan><tspan x="9.297" y="9.45">Chronicle</tspan></text>
+		</a>
 	</g>
 	<g id="bb_17_">
 		<circle fill="#C5D2D6" cx="159.643" cy="651.697" r="26.053"/>
 		<g>
 			<text transform="matrix(1 0 0 1 153.3739 644.2095)"><tspan x="0" y="0" fill="#748D93" class="btitle3">Pope</tspan><tspan x="-7.409" y="8.039" fill="#748D93" class="btitle3">Welcomes</tspan><tspan x="-12.838" y="16.077" fill="#748D93" class="btitle3">Breastfeeding</tspan></text>
 		</g>
-		<g>
-			
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Anbcnews.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 				<text transform="matrix(1 0 0 1 134.3041 686.2573)" class="bmedia">NBC News</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_16_">
 		<circle fill="#C5D2D6" cx="61.151" cy="267.034" r="47.886"/>
 		<g>
 			<text transform="matrix(1 0 0 1 39.4006 259.8025)"><tspan x="0" y="0" class="btitle5">Why You Get</tspan><tspan x="-4.481" y="9.646" class="btitle5"> Angry Hearing </tspan><tspan x="-10.193" y="19.293" class="btitle5">Someone Chewing</tspan></text>
 		</g>
-		<g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Avice.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 			<text transform="matrix(1 0 0 1 25.6775 324.2459)" class="bmedia">Vice Magazine</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_15_">
 		<circle fill="#C5D2D6" cx="60.149" cy="155.607" r="46.096"/>
 		<g>
 			<text transform="matrix(1 0 0 1 43.1707 151.6976)"><tspan x="0" y="0" class="btitle5">Facebook</tspan><tspan x="-1.398" y="9.646" class="btitle5"> Copyright</tspan><tspan x="7.902" y="19.293" class="btitle5">Hoax</tspan></text>
 		</g>
-		<g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Aabcnews.go.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 			<text transform="matrix(1 0 0 1 37.5501 212.0247)" class="bmedia">ABC News</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_14_">
-		<g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Art.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 			<text transform="matrix(1 0 0 1 749.314 408.3291)" class="bmedia">Russia Today</text>
-		</g>
+		</a>
 		<circle fill="#C5D2D6" cx="777.854" cy="360.55" r="38.137"/>
 		<g>
 			<text transform="matrix(1 0 0 1 762.0649 345.3306)"><tspan x="0" y="0" class="btitle5">Supreme</tspan><tspan x="-6.455" y="9.646" class="btitle5">Court Allows</tspan><tspan x="-5.728" y="19.293" class="btitle5">Warrantless </tspan><tspan x="4.706" y="28.939" class="btitle5">House</tspan><tspan x="0.225" y="38.585" class="btitle5">Searches</tspan></text>
@@ -1784,9 +1786,9 @@
 		<g>
 			<text transform="matrix(1 0 0 1 774.1475 444.3078)"><tspan x="0" y="0" class="btitle4">Cause</tspan><tspan x="-0.549" y="9.405" class="btitle4">of ALS</tspan><tspan x="-4.221" y="18.811" class="btitle4">is Found</tspan></text>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 753.6368 486.883)"><tspan x="0" y="0" class="bmedia">The Chicago</tspan><tspan x="10.762" y="9.45" class="bmedia"> Tribune</tspan></text>
-		</g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Achicagotribune.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
+			<text transform="matrix(1 0 0 1 753.6368 486.883)" class="bmedia"><tspan x="0" y="0">The Chicago</tspan><tspan x="10.762" y="9.45"> Tribune</tspan></text>
+		</a>
 	</g>
 	<g id="bb_10_">
 		<g>
@@ -1800,28 +1802,15 @@
 					<text transform="matrix(1 0 0 1 615.9317 184.3178)"><tspan x="0" y="0" fill="#C5D2D6" class="btitle3">Politicians </tspan><tspan x="-5.725" y="8.039" fill="#C5D2D6" class="btitle3">With 36 Weeks</tspan><tspan x="-4.344" y="16.077" fill="#C5D2D6" class="btitle3"> of Paid Leave</tspan></text>
 				</g>
 			</g>
-			<g>
-				<g>
-					
-						<text transform="matrix(1 0 0 1 601.4024 223.7856)" fill="#C5D2D6" font-family="'OptimusPrincepsSemiBold'" font-size="9.5794">New Yorker</text>
-				</g>
-				
-					<text transform="matrix(1 0 0 1 601.4024 223.7856)" fill="#C5D2D6" font-family="'OptimusPrincepsSemiBold'" font-size="9.5794">New Yorker</text>
-				<g>
-					
-						<text transform="matrix(1 0 0 1 601.4024 223.7856)" fill="#C5D2D6" font-family="'OptimusPrincepsSemiBold'" font-size="9.5794">New Yorker</text>
-				</g>
-			</g>
 		</g>
 		<g>
 			<circle fill="#C5D2D6" cx="631.514" cy="191.03" r="24.497"/>
 			<g>
 				<text transform="matrix(1 0 0 1 615.9317 184.3178)"><tspan x="0" y="0" fill="#748D93" class="btitle3">Politicians </tspan><tspan x="-5.725" y="8.039" fill="#748D93" class="btitle3">With 36 Weeks</tspan><tspan x="-4.344" y="16.077" fill="#748D93" class="btitle3"> of Paid Leave</tspan></text>
 			</g>
-			<g>
-				
+			<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Anewyorker.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 					<text transform="matrix(1 0 0 1 601.4024 223.7856)" class="bmedia">New Yorker</text>
-			</g>
+			</a>
 		</g>
 	</g>
 	<g id="bb_9_">
@@ -1829,10 +1818,9 @@
 		<g>
 			<text transform="matrix(1 0 0 1 559.3071 137.0739)"><tspan x="0" y="0" class="btitle5">Science</tspan><tspan x="-0.012" y="9.646" class="btitle5">Behind </tspan><tspan x="-2.689" y="19.293" class="btitle5">The Ideal</tspan><tspan x="1.125" y="28.939" class="btitle5">Cookie</tspan></text>
 		</g>
-		<g>
-			
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Anpr.org" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">		
 				<text transform="matrix(1 0 0 1 562.3383 192.4538)" class="bmedia">NPR</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_8_">
 		<circle fill="#C5D2D6" cx="720.553" cy="623.56" r="14.192"/>
@@ -1845,45 +1833,45 @@
 		<g>
 			<text transform="matrix(1 0 0 1 712.8877 618.0918)"><tspan x="0" y="0" fill="#748D93" class="btitle2">Secret</tspan><tspan x="3.319" y="7.235" fill="#748D93" class="btitle2">Fed</tspan><tspan x="0.461" y="14.47" fill="#748D93" class="btitle2">Loans</tspan></text>
 		</g>
-		<g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Abloomberg.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 			<text transform="matrix(1 0 0 1 695.1191 646.583)" class="bmedia">Bloomberg</text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_7_">
 		<circle fill="#C5D2D6" cx="767.965" cy="156.928" r="47.886"/>
 		<g>
 			<text transform="matrix(1 0 0 1 751.187 150.4992)"><tspan x="0" y="0" class="btitle5">Why Kids </tspan><tspan x="-5.679" y="9.646" class="btitle5">Can&apos;t Sit Still </tspan><tspan x="0.896" y="19.293" class="btitle5">In School</tspan></text>
 		</g>
-		<g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Awashingtonpost.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 			<text transform="matrix(1 0 0 1 725.7397 213.6604)"><tspan x="0" y="0" class="bmedia">The Washington </tspan><tspan x="31.583" y="9.45" class="bmedia">Post</tspan></text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_6_">
 		<circle fill="#C5D2D6" cx="781.483" cy="627.976" r="27.242"/>
 		<g>
 			<text transform="matrix(1 0 0 1 768.844 619.1002)"><tspan x="0" y="0" class="btitle5">Secular</tspan><tspan x="0.357" y="9.646" class="btitle5">Family </tspan><tspan x="1.23" y="19.293" class="btitle5">Values</tspan></text>
 		</g>
-		<g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Alatimes.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
 			<text transform="matrix(1 0 0 1 743.0413 664.0455)"><tspan x="0" y="0" class="bmedia">The Los Angeles  </tspan><tspan x="25.773" y="9.45" class="bmedia">Times</tspan></text>
-		</g>
+		</a>
 	</g>
 	<g id="bb_5_">
 		<circle fill="#C5D2D6" cx="409.832" cy="134.796" r="25.948"/>
 		<g>
 			<text transform="matrix(1 0 0 1 394.1678 125.7085)"><tspan x="0" y="0" fill="#748D93" class="btitle3">Predicting </tspan><tspan x="-1.078" y="8.039" fill="#748D93" class="btitle3"> If a Couple </tspan><tspan x="7.282" y="16.077" fill="#748D93" class="btitle3">Stays </tspan><tspan x="2.355" y="24.116" fill="#748D93" class="btitle3">Together</tspan></text>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 377.6146 168.9663)"><tspan x="0" y="0" class="bmedia">The Atlantic</tspan><tspan x="8.186" y="9.45" class="bmedia">Magazine</tspan></text>
-		</g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Atheatlantic.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
+			<text transform="matrix(1 0 0 1 377.6146 168.9663)" class="bmedia"><tspan x="0" y="0">The Atlantic</tspan><tspan x="8.186" y="9.45">Magazine</tspan></text>
+		</a>
 	</g>
 	<g id="bb_4_">
 		<circle fill="#C5D2D6" cx="689.463" cy="126.319" r="17.357"/>
 		<g>
 			<text transform="matrix(1 0 0 1 683.3502 120.1937)"><tspan x="0" y="0" fill="#748D93" class="btitle2">Why </tspan><tspan x="-8.736" y="7.235" fill="#748D93" class="btitle2">Doctors Die</tspan><tspan x="-7.474" y="14.47" fill="#748D93" class="btitle2">Differently</tspan></text>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 666.0289 154.1839)"><tspan x="0" y="0" class="bmedia">The Wall </tspan><tspan x="8.789" y="9.45" class="bmedia">Street </tspan><tspan x="3.328" y="18.9" class="bmedia">Journal</tspan></text>
-		</g>
+		<a xlink:href="https://ahrefs.com/content-explorer/overview/v3/table/all/all/1/rank_desc?topic=site%3Awsj.com" xlink:title="Read more in Ahrefs Content Explorer" target="_blank">
+			<text transform="matrix(1 0 0 1 666.0289 154.1839)" class="bmedia"><tspan x="0" y="0">The Wall </tspan><tspan x="8.789" y="9.45" class="bmedia">Street </tspan><tspan x="3.328" y="18.9">Journal</tspan></text>
+		</a>
 	</g>
 	<g id="bb_1_">
 		<circle fill="#C5D2D6" cx="334.892" cy="138.907" r="29.732"/>
